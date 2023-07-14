@@ -54,3 +54,26 @@ cheese pizza	90
 	pepperoni:70
 total bill is: 300
 
+Name: Agrata
+	order details...
+pesto pizza:90
+	olive:50
+total bill is: 140
+
+
+	jalapeno:30
+total bill is: 170
+
+
+	basil:40
+total bill is: 210
+
+Name: agrata
+	order details...
+cheese pizza:90Name: pesto pizza done
+	order details...
+cheese pizza:90Name: cheese pizza
+	order details...
+cheese pizza:90Name: oliver
+	order details...
+pesto pizza:90
