@@ -1,0 +1,3 @@
+Customer Name: agrata
+Pizza: Margherita
+Bill: $10

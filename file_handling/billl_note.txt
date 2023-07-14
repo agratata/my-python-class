@@ -1,0 +1,13 @@
+Customer name:
+order details: ppap
+Bill is: 
+Purchase date and time: 
+
+Customer name:
+order details:
+Bill is: 
+Purchase date and time: 
+
+Customer name:
+Bill is: 
+Purchase date and time: 

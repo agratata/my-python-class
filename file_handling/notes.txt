@@ -1,0 +1,8 @@
+files in different locations is accessed by giving exact path location
+open(first arg file, 2nd arg mode)
+    modes of opening files:
+        1.'a':append
+        2.'r':read
+        3.'w':overwrite
+        4.'r+':read+write
+file_name.readlines() le different lines ma lekjeko code lai list ma halcha
