@@ -1,3 +1,5 @@
+print("Welcome to pizza shop!!!")
+
 info_file=open("file_handling/bill.txt","a+")
 base_menu={"cheese":100,"pesto":90}
 top_menu={"olive":50,"chicken":40,"ham":70, "pepperoni":70 ,"bacon":70, "jalapeno":30, "garlic":30, "basil":40}
