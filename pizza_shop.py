@@ -1,6 +1,14 @@
 info_file=open("file_handling/bill.txt","a+")
-base_menu={"cheese pizza":90,"pesto pizza":90}
+base_menu={"cheese":100,"pesto":90}
 top_menu={"olive":50,"chicken":40,"ham":70, "pepperoni":70 ,"bacon":70, "jalapeno":30, "garlic":30, "basil":40}
+
+def menu():
+   print("\nPIZZA BASE MENU")
+   for x,y in base_menu.items():
+      print(x,y)
+   print("\nTOPPING MENU")
+   for x,y in top_menu.items():
+      print(x,y)
 
 #5 customer input
 for i in range(0,5,1):
@@ -10,12 +18,7 @@ for i in range(0,5,1):
    print(f"Welcome to the shop, {name}")
 
    #printing menu
-   print("\nPIZZA BASE MENU")
-   for x,y in base_menu.items():
-      print(x,y)
-   print("\nTOPPING MENU")
-   for x,y in top_menu.items():
-      print(x,y)
+   menu()
 
    #input magdai + file ma lekhdai
    try:
